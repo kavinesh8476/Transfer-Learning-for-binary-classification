@@ -23,7 +23,6 @@ Plot the accuracy and loss for both training and validation.
 <br/>
 
 ## PROGRAM
-Include your code here
 ```python
 # Import all the necessary files!
 import os
