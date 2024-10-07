@@ -257,7 +257,7 @@ plt.show()
 
 ## OUTPUT
 ### Training Accuracy, Validation Accuracy Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/d5534ab6-f91d-4781-bed9-56edbfcc9099)
+![image](https://github.com/user-attachments/assets/3ecd7dfd-c84e-4972-8b93-abee1b62b60e)
 
 </br>
 
